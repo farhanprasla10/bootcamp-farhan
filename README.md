@@ -1,3 +1,2 @@
 # README
-
-Bootcamp-application 
+bootcamp-farhan is actually splurty application.
